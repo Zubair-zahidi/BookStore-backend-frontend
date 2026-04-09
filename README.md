@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌌 Cosmic Books - Interstellar Library
 
 ![Cosmic Books Banner](./img1.png)
@@ -208,5 +209,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repo** if you found it helpful!
 
-![Footer](https://via.placeholder.com/1200x200/1a1a2e/16213e?text=Thank+You+for+Visiting+Cosmic+Books)</content>
-<parameter name="filePath">c:\Users\zahid\Desktop\Bookstore\README.md
+![Footer](https://via.placeholder.com/1200x200/1a1a2e/16213e?text=Thank+You+for+Visiting+Cosmic+Books)
